@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BonAppetit</string>
+    <string name="recipe01">Cabbage and Tuna Stir-Fry</string>
+    <string name="recipe02">Tuna Salad</string>
+    <string name="recipe03">Tuna Melt</string>
+    <string name="recipe04">Salade Nicoise</string>
+    <string name="recipe05">Garden Tuna Salad Sandwich</string>
+    <string name="recipe06">Canned Tuna Pasta</string>
+
+</resources>
